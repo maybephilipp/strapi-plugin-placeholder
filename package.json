@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package",
-  "name": "strapi-plugin-placeholder",
+  "name": "@finsimco/strapi-plugin-placeholder",
   "version": "4.4.1",
   "description": "Generate base64 placeholders for Strapi images",
   "author": {
